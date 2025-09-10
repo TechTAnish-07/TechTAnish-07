@@ -20,7 +20,7 @@
 
 - 🔭 Currently working on **Major Projects**
 - 🌱 Learning **Advanced C++** *(private repository)*
-- 📚 Exploring **DSA**, **Competitive Programming**, and **Web Development**
+- 📚 Exploring **DSA**, **Competitive Programming**,**Machine learning** and **Web Development**
 - 📫 Reach me at **patidar29tanish@gmail.com**
 
 ---
