@@ -1,137 +1,154 @@
-👋 Hi, I’m Tanish Patidar
+# Hey there! 👋 I'm Tanish Patidar
+
 <div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Competitive+Programmer+%F0%9F%92%BB;IIIT+Trichy+%7C+CSE+Student;Problem+Solver+%26+Builder+%F0%9F%8E%AF)](https://git.io/typing-svg)
+
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" alt="Coding">
 
 </div>
-🧠 About Me
 
-I’m a 3rd-year B.Tech CSE student at IIIT Tiruchirappalli (2023–2027) with a strong interest in backend systems, scalable web applications, and problem solving.
+## 🚀 About Me
 
-I enjoy turning ideas into clean, maintainable software, whether it’s through Spring Boot APIs, React frontends, or efficient algorithms.
-I regularly participate in competitive programming to sharpen my thinking and write better code.
+I'm a **B.Tech Computer Science student at IIIT Tiruchirappalli** passionate about crafting scalable web applications and solving complex algorithmic problems. With a strong foundation in **full-stack development** and **competitive programming**, I thrive at the intersection of elegant code and practical solutions.
 
-Profile {
-  Role: "Aspiring Software Engineer",
-  Focus: ["Backend Development", "System Design", "DSA"],
-  Tech: ["Spring Boot", "React", "SQL", "C++"],
-  Strengths: ["Problem Solving", "Clean Architecture", "Consistency"],
-  Motto: "Write code that scales — and survives."
-}
+```javascript
+const tanish = {
+    location: "Tiruchirappalli, Tamil Nadu 🇮🇳",
+    education: "IIIT Trichy | B.Tech CSE (2023-2027)",
+    currentFocus: ["Full Stack Development", "Spring Boot", "System Design"],
+    learning: ["Advanced Algorithms", "Backend Architecture", "Machine Learning"],
+    achievements: ["CodeChef Max: 1672", "LeetCode Max: 1792", "Flipkart Grid 7.0 Semi-Finalist"],
+    askMeAbout: ["React", "Spring Boot", "DSA", "Competitive Programming"],
+    funFact: "I debug faster than I run on the football field! ⚽😄"
+};
+```
 
-🏆 Competitive Programming & Rankings
-Platform	Achievement
-⭐ LeetCode	Max Rating 1792 – TAnish_07
+## 🏆 Competitive Programming Highlights
 
-🔥 CodeChef	Max Rating 1672 – tanish_7
-
-🥉 CodeChef Starters 179	Global Rank 203 (Div 3)
-🎯 LeetCode Weekly 445	Rank 702 / 25,000+
-💻 Codeforces	Active – TAnish_29
-🛠️ Tech Stack
-💻 Languages
-
-C++ (DSA, Competitive Programming)
-
-Java (Backend, OOP)
-
-JavaScript (Frontend)
-
-HTML, CSS
-
-⚙️ Frameworks & Libraries
-
-Spring Boot (REST APIs, Security, JWT)
-
-React.js (SPA, Hooks, Component Design)
-
-Node.js (Basics)
-
-🗄️ Databases & Tools
-
-MySQL / PostgreSQL
-
-Git & GitHub
-
-Postman
-
-Vercel
-
-💡 Featured Projects
-🚗 Sangraj Rentals — Full-Stack Car Rental Platform
-
-Tech: React · Spring Boot · PostgreSQL · JWT
-
-Designed a role-based authentication system (User / Admin)
-
-Implemented car availability logic with time-interval validation
-
-Built REST APIs for booking lifecycle (book → return → availability)
-
-Focused on clean backend architecture & scalability
-
-🔗 Repo: https://github.com/TechTAnish-07/CarrentalFrontend
-
-🎮 Pikachu Explorer
-
-Tech: React · REST APIs · CSS
-
-Interactive Pokémon explorer using public APIs
-
-Optimized with React Hooks and reusable components
-
-Fully responsive UI with smooth UX
-
-🅿️ Car Parking Management System
-
-Tech: C++ (OOP)
-
-Object-oriented design using inheritance & encapsulation
-
-Implemented slot allocation, vehicle tracking, and capacity checks
-
-Built with extensibility and clean design in mind
-
-📊 GitHub Activity
-<div align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=TechTAnish-07&show_icons=true&theme=tokyonight" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechTAnish-07&layout=compact&theme=tokyonight" /> </div> <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=TechTAnish-07&theme=tokyonight" /> </div>
-🎯 What I’m Currently Working On
-
-🔹 Building production-ready backend services with Spring Boot
-
-🔹 Improving system design & API architecture
-
-🔹 Consistently solving DSA & contest problems
-
-🔹 Exploring Machine Learning fundamentals
-
-🔹 Preparing for SDE / Backend Internships
-
-🏅 Achievements & Certifications
-
-🥈 Flipkart Grid 7.0 — Semi-Finalist
-
-📜 Supervised Machine Learning — Coursera
-
-📜 Advanced Learning Algorithms — Coursera
-
-⚽ Football MVP — College Sports
-
-🏆 All-Rounder Award — Academics & Sports
-
-🤝 Let’s Connect
 <div align="center">
 
-
-
-
-
-
-
-
-
+| Achievement | Details |
+|-------------|---------|
+| 🥉 **CodeChef Starters 179** | Global Rank **203** (Div 3) |
+| 🎯 **LeetCode Weekly 445** | Ranked **702 / 25,000** |
+| ⭐ **LeetCode Rating** | Max **1792** - [TAnish_07](https://leetcode.com/u/TAnish_07/) |
+| 🔥 **CodeChef Rating** | Max **1672** - [tanish_7](https://www.codechef.com/users/tanish_7) |
+| 💻 **Codeforces** | Active Profile - [TAnish_29](https://codeforces.com/profile/TAnish_29) |
 
 </div>
-<div align="center">
-💬 “First, solve the problem. Then, write the code.”
 
-⭐ Open to internships, collaborations, and impactful engineering work
+## 🛠️ Tech Arsenal
+
+### **Languages**
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+</p>
+
+### **Frameworks & Libraries**
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+</p>
+
+### **Database & Tools**
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+</p>
+
+## 💡 Featured Projects
+
+### 🎮 [Pikachu Explorer](https://github.com/YOUR_USERNAME/pikachu-explorer)
+**Tech Stack:** React.js, REST API, CSS3
+
+- Interactive Pokémon exploration app with **fully responsive UI** and smooth animations
+- Integrated **public REST APIs** for real-time Pokémon stats, abilities, and images
+- Optimized component structure using **React hooks** for better performance
+
+### 🏠 [Sangraj Rentals](https://github.com/YOUR_USERNAME/sangraj-rentals)
+**Tech Stack:** React.js, Spring Boot (Planned), MySQL
+
+- Equipment-rental platform enabling users to **list, browse, and rent items online**
+- Designed backend architecture with **Spring Boot + SQL** for authentication & availability
+- Built **reusable React components** with improved UI/UX for seamless navigation
+
+### 🚗 Car Parking System
+**Tech Stack:** C++ (OOP)
+
+- Modular parking management system applying **OOP principles** (inheritance, encapsulation)
+- Implemented **slot allocation, capacity checks**, and vehicle tracking with class hierarchies
+- Clean, maintainable architecture supporting future extensions
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true)
+
+</div>
+
+## 🎯 Current Focus
+
+- 🔨 Building **scalable full-stack applications** with React.js and Spring Boot
+- 📚 Mastering **backend architectures** and RESTful API design
+- 🧠 Advancing in **competitive programming** contests (CodeChef, LeetCode, Codeforces)
+- 🤖 Exploring **Machine Learning** through Coursera certifications
+- 🌐 Contributing to **open-source** projects and collaborating with developers
+
+## 🏅 Achievements & Certifications
+
+- 🥈 **Flipkart Grid 7.0** - Semi-Finalist
+- 📜 **Machine Learning: Supervised Learning** - Coursera
+- 📜 **Advanced Learning Algorithms** - Coursera
+- ⚽ **Most Valuable Player** - Football Season (Leadership & Teamwork)
+- 🏆 **All-Rounder Trophy** - 10th Grade (Academics + Sports Excellence)
+
+## 📫 Let's Connect!
+
+<p align="center">
+<a href="https://www.linkedin.com/in/tanish07patidar-/" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+</a>
+<a href="mailto:patidar29tanish@gmail.com" target="_blank">
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" height="30" width="40" />
+</a>
+<a href="https://leetcode.com/u/TAnish_07/" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
+</a>
+<a href="https://www.codechef.com/users/tanish_7" target="_blank">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="30" width="40" />
+</a>
+<a href="https://codeforces.com/profile/TAnish_29" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40" />
+</a>
+</p>
+
+## 📈 Profile Views
+
+<div align="center">
+  
+![](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blueviolet&style=for-the-badge)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭 *"First, solve the problem. Then, write the code." – John Johnson*
+
+**⭐ From [Tanish Patidar](https://github.com/YOUR_GITHUB_USERNAME) | Open to collaborations and opportunities!**
 
 </div>
