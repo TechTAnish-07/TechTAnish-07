@@ -1,4 +1,4 @@
-# Hey there! 👋 I'm Tanish Patidar
+# Hey there! 👋   I'm Tanish Patidar
 
 <div align="center">
   
@@ -29,7 +29,13 @@ const tanish = {
 <div align="center">
 
 | Achievement | Details |
-|-------------|---------|
+|## 📈 Profile Views
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=YOUR_GITHUB_USERNAME&icon=0&color=0" alt="Profile Views" />
+</p>
+
+-------------|---------|
 | 🥉 **CodeChef Starters 179** | Global Rank **203** (Div 3) |
 | 🎯 **LeetCode Weekly 445** | Ranked **702 / 25,000** |
 | ⭐ **LeetCode Rating** | Max **1792** - [TAnish_07](https://leetcode.com/u/TAnish_07/) |
@@ -66,14 +72,14 @@ const tanish = {
 
 ## 💡 Featured Projects
 
-### 🎮 [Pikachu Explorer](https://github.com/YOUR_USERNAME/pikachu-explorer)
+### 🎮 [Pikachu Explorer](https://github.com/TechTAnish-07/PokemonAPI)
 **Tech Stack:** React.js, REST API, CSS3
 
 - Interactive Pokémon exploration app with **fully responsive UI** and smooth animations
 - Integrated **public REST APIs** for real-time Pokémon stats, abilities, and images
 - Optimized component structure using **React hooks** for better performance
 
-### 🏠 [Sangraj Rentals](https://github.com/YOUR_USERNAME/sangraj-rentals)
+### 🏠 [Sangraj Rentals](https://github.com/TechTAnish-07/CarrentalFrontend)
 **Tech Stack:** React.js, Spring Boot (Planned), MySQL
 
 - Equipment-rental platform enabling users to **list, browse, and rent items online**
@@ -89,15 +95,17 @@ const tanish = {
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TechTAnish-07&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TechTAnish-07&theme=radical" alt="GitHub Streak" />
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true)
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechTAnish-07&layout=compact&theme=radical&langs_count=8" alt="Top Languages" />
+</p>
 
 ## 🎯 Current Focus
 
@@ -135,20 +143,12 @@ const tanish = {
 </a>
 </p>
 
-## 📈 Profile Views
-
-<div align="center">
-  
-![](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blueviolet&style=for-the-badge)
-
-</div>
-
 ---
 
 <div align="center">
 
 ### 💭 *"First, solve the problem. Then, write the code." – John Johnson*
 
-**⭐ From [Tanish Patidar](https://github.com/YOUR_GITHUB_USERNAME) | Open to collaborations and opportunities!**
+**⭐ From [Tanish Patidar](https://github.com/TechTAnish-07) | Open to collaborations and opportunities!**
 
 </div>
