@@ -1,4 +1,4 @@
-# Hey there! 👋   I'm Tanish Patidar
+# Hey there! 👋 I'm Tanish Patidar
 
 <div align="center">
   
@@ -29,13 +29,7 @@ const tanish = {
 <div align="center">
 
 | Achievement | Details |
-|## 📈 Profile Views
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=YOUR_GITHUB_USERNAME&icon=0&color=0" alt="Profile Views" />
-</p>
-
--------------|---------|
+|-------------|---------|
 | 🥉 **CodeChef Starters 179** | Global Rank **203** (Div 3) |
 | 🎯 **LeetCode Weekly 445** | Ranked **702 / 25,000** |
 | ⭐ **LeetCode Rating** | Max **1792** - [TAnish_07](https://leetcode.com/u/TAnish_07/) |
@@ -43,14 +37,12 @@ const tanish = {
 | 💻 **Codeforces** | Active Profile - [TAnish_29](https://codeforces.com/profile/TAnish_29) |
 
 </div>
+
 ## 🧠 LeetCode Stats
 
 <div align="center">
 
-<img 
-  src="https://leetcode-stats-six.vercel.app/api?username=TAnish_07&theme=dark" 
-  height="180"
-/>
+<img src="https://leetcode-stats-six.vercel.app/api?username=TAnish_07&theme=dark" height="180" alt="LeetCode Stats"/>
 
 </div>
 
@@ -71,14 +63,6 @@ const tanish = {
 <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
 </p>
-## 🧩 Backend Engineering Focus
-
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-Backend-brightgreen?style=for-the-badge&logo=springboot)
-![REST API](https://img.shields.io/badge/REST%20APIs-Design-blue?style=for-the-badge)
-![JWT](https://img.shields.io/badge/JWT-Authentication-orange?style=for-the-badge)
-![MySQL](https://img.shields.io/badge/MySQL-Database-blue?style=for-the-badge&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-316192?style=for-the-badge&logo=postgresql)
-![System Design](https://img.shields.io/badge/System%20Design-Scalable-important?style=for-the-badge)
 
 ### **Database & Tools**
 <p align="left">
@@ -87,6 +71,15 @@ const tanish = {
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
 </p>
+
+## 🧩 Backend Engineering Focus
+
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-Backend-brightgreen?style=for-the-badge&logo=springboot)
+![REST API](https://img.shields.io/badge/REST%20APIs-Design-blue?style=for-the-badge)
+![JWT](https://img.shields.io/badge/JWT-Authentication-orange?style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-Database-blue?style=for-the-badge&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-316192?style=for-the-badge&logo=postgresql)
+![System Design](https://img.shields.io/badge/System%20Design-Scalable-important?style=for-the-badge)
 
 ## 💡 Featured Projects
 
@@ -113,10 +106,20 @@ const tanish = {
 
 ## 📊 GitHub Analytics
 
-## 📈 Contribution Activity
 <p align="center">
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=TechTAnish-07&theme=tokyo-night&hide_border=true)
+  <img src="https://github-readme-stats.vercel.app/api?username=TechTAnish-07&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TechTAnish-07&theme=radical" alt="GitHub Streak" />
+</p>
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TechTAnish-07&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+</p>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechTAnish-07&layout=compact&theme=radical&langs_count=8" alt="Top Languages" />
 </p>
@@ -155,6 +158,12 @@ const tanish = {
 <a href="https://codeforces.com/profile/TAnish_29" target="_blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40" />
 </a>
+</p>
+
+## 📈 Profile Views
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=TechTAnish-07&icon=0&color=0" alt="Profile Views" />
 </p>
 
 ---
