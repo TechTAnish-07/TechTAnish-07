@@ -42,7 +42,7 @@ const tanish = {
 
 <div align="center">
   <img 
-    src="https://leetcode-stats-six.vercel.app/api?username=TAnish_07&theme=dark" 
+    src="https://leetcard.jacoblin.cool/TAnish_07?theme=dark&font=Fira%20Code&ext=heatmap" 
     alt="LeetCode Stats"
   />
 </div>
@@ -117,10 +117,11 @@ const tanish = {
 
 <p align="center">
   <img 
-    src="https://streak-stats.demolab.com?user=TechTAnish-07&theme=radical&hide_border=true" 
+    src="https://streak-stats.demolab.com?user=TechTAnish-07&theme=tokyonight&hide_border=true&cache_seconds=86400" 
     alt="GitHub Streak"
   />
 </p>
+
 
 
 ## 📈 Contribution Activity
@@ -169,14 +170,7 @@ const tanish = {
 </a>
 </p>
 
-## 📈 Profile Views
 
-<p align="center">
-  <img 
-    src="https://visitcount.itsvg.in/api?id=TechTAnish-07&label=Profile%20Views&color=0&icon=5" 
-    alt="Profile Views" 
-  />
-</p>
 
 ---
 
