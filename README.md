@@ -43,6 +43,16 @@ const tanish = {
 | 💻 **Codeforces** | Active Profile - [TAnish_29](https://codeforces.com/profile/TAnish_29) |
 
 </div>
+## 🧠 LeetCode Stats
+
+<div align="center">
+
+<img 
+  src="https://leetcode-stats-six.vercel.app/api?username=TAnish_07&theme=dark" 
+  height="180"
+/>
+
+</div>
 
 ## 🛠️ Tech Arsenal
 
@@ -61,6 +71,14 @@ const tanish = {
 <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
 </p>
+## 🧩 Backend Engineering Focus
+
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-Backend-brightgreen?style=for-the-badge&logo=springboot)
+![REST API](https://img.shields.io/badge/REST%20APIs-Design-blue?style=for-the-badge)
+![JWT](https://img.shields.io/badge/JWT-Authentication-orange?style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-Database-blue?style=for-the-badge&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-316192?style=for-the-badge&logo=postgresql)
+![System Design](https://img.shields.io/badge/System%20Design-Scalable-important?style=for-the-badge)
 
 ### **Database & Tools**
 <p align="left">
@@ -95,14 +113,10 @@ const tanish = {
 
 ## 📊 GitHub Analytics
 
+## 📈 Contribution Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TechTAnish-07&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=TechTAnish-07&theme=tokyo-night&hide_border=true)
 </p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TechTAnish-07&theme=radical" alt="GitHub Streak" />
-</p>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechTAnish-07&layout=compact&theme=radical&langs_count=8" alt="Top Languages" />
 </p>
