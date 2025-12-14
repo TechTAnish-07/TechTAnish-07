@@ -41,10 +41,12 @@ const tanish = {
 ## 🧠 LeetCode Stats
 
 <div align="center">
-
-<img src="https://leetcode-stats-six.vercel.app/api?username=TAnish_07&theme=dark" height="180" alt="LeetCode Stats"/>
-
+  <img 
+    src="https://leetcode-stats-six.vercel.app/api?username=TAnish_07&theme=dark" 
+    alt="LeetCode Stats"
+  />
 </div>
+
 
 ## 🛠️ Tech Arsenal
 
@@ -107,12 +109,19 @@ const tanish = {
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TechTAnish-07&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=TechTAnish-07&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400" 
+    alt="GitHub Stats"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TechTAnish-07&theme=radical" alt="GitHub Streak" />
+  <img 
+    src="https://streak-stats.demolab.com?user=TechTAnish-07&theme=radical&hide_border=true" 
+    alt="GitHub Streak"
+  />
 </p>
+
 
 ## 📈 Contribution Activity
 
@@ -163,7 +172,10 @@ const tanish = {
 ## 📈 Profile Views
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=TechTAnish-07&icon=0&color=0" alt="Profile Views" />
+  <img 
+    src="https://visitcount.itsvg.in/api?id=TechTAnish-07&label=Profile%20Views&color=0&icon=5" 
+    alt="Profile Views" 
+  />
 </p>
 
 ---
